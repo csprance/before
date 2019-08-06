@@ -1,5 +1,6 @@
 # Before
 > A headless CMS written in Typescript using NextJS
+
 Before is a headless content managment system. It is used to manage structured data from a database and populate that data. 
 
 Features:
